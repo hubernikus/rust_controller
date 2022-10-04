@@ -1,0 +1,3 @@
+[submodule "python/avoidance_controller"]
+	path = python/avoidance_controller
+	url = https://github.com/TicaGit/semester_project_LASA_trinca
